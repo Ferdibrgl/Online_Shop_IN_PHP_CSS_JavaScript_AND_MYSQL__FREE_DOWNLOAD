@@ -1,1 +1,3 @@
-# Online_Shop_IN_PHP_CSS_JavaScript_AND_MYSQL__FREE_DOWNLOAD
+# DBMS-ecommerce
+This project is for DBMS module
+need to add new admin table to db
